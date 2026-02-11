@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd {
+    background-color: rgb(224, 105, 105);
+    font-family: arial;
+}
+
+#second {
+    color: rgb(12, 16, 236);
+    font-size: 36px;
+}
+
+.third {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: rgb(95, 218, 112);
+    font-size: 24px;
+    font-weight: bold;
+}
